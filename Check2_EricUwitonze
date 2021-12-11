@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<link rel="stylesheet" type="text/css" href="c.css">
+<head style="background-color: magenta">
+	<title>INS123EricUwitonze_Assignment1</title>
+	<body style="background-color: #00BFFF">
+      <h1 style="color: tomato; margin-left: 5%" style="text-align: center;" >Auberge st Jean Leopold Kanombe</h1> 
+	<img src="auberge.html.JPEG" alt="auberge.html" style="font-size: width 560px; height: 650; margin-left: 5%"> 
+	<h4> Auberge st Jean Leopold: is the one in the green Hotel in Kigali Located in Kanombe Near the Airport.<br>
+	It has a great and nice view of Airplane Landing on the ground day and night with a huge flesh air!!</h4>
+	<p><h2 style="color: tomato"> We have different amentities</h2></p>
+
+</head></style>
+<ul><h3>
+  <li>Rooms:
+  <ol style=" "> Single Romms</ol>
+  <img src="single2.html.JPEG" alt="single2.html">
+  <ol style=" "> Double Rooms</ol>
+  <img src="single1.html.JPEG" alt="single1.html">
+  <ol style=" "> Twin Rooms</ol> 	
+  <img src="twin.html.JPG" alt="twin.html">
+  </li>
+  <li>Bar</li>
+  <img src="bar.html.JPEG" alt="bar.html">
+  <li>Kitchen</li>
+</ul></h3>  
+<h1 style="text-align: center; color: tomato">Our Menu</h1>
+</h1>
+<h1><table style="border-style: solid; text-align: center; margin-left: 35%" border="1" style="border-collapse: collapse;font-style: italic;column-width: 200px;border-color: black; background-size: 300px" style="border-style: solid; background-color: magenta">
+</h1>
+	<h3><tr style="color: yellow"><th>FOOD</th><th>PRICE</th><th>PREP_TIME</th></tr>
+	<tr><td>Chips</td><td>200Rwf</td><td>15 Minutes</td></tr>
+	<tr><td>Brochette</td><td>1500Rwf</td><td>30 Minutes</td></tr>
+</h3>
+</h1>
+	<h3><tr style="color: green"><th>DRINKS</th><th>PRICE</th><th>PREP_TIME</th></tr>
+	<tr><td>Coffee</td><td>200Rwf</td><td>15 Minutes</td></tr>
+	<tr><td>TEA</td><td>1500Rwf</td><td>30 Minutes</td></tr>
+</h3>
+</table>
+<h2>For Booking</h2> <ol>
+	<ul>Tel: +250783385395</ul>
+	<ul>Email: Aubergestjeanleopold@gmail.com</ul>
+</ol>
+<h2><a href="https://business.google.com/u/1/site/l/07855067117999040862" target="_blank"> Visit our Online Booking Portal</a></h2>
+<h2><a href="https://auberge-st-jean-leopold-kanombe.business.site/?m=true" target="_blank">Find us on Whats'App </a></h2>
+</ul>
+</style>
+</body>
+</html>
